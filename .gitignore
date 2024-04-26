@@ -1,0 +1,11 @@
+myf.py
+
+mys.py
+
+this/
+
+*.log
+*.py
+
+!ssp.log
+
