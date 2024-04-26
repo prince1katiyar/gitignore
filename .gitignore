@@ -3,3 +3,9 @@ myfil
 newfile.ipynb
 thsi.py
 *.log
+dir /
+name*
+*.ipynb
+dir /miss.py
+*.md
+newfile.ipynb
