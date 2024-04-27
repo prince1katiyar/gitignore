@@ -1,11 +1,14 @@
-myf.py
+like.py
 
-mys.py
+dis2/miss.py
 
-this/
-
+dis/
 *.log
-*.py
 
-!ssp.log
+!sample.log
+
+
+
+
+
 
